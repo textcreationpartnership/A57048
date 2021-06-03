@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Representation of the state of the Protestant churches in Europe tending to awaken the spirits of those only who will lay to heart the afflictions of Joseph.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57048</idno><idno type="EEBO-CITATION">9602242</idno>
+  <idno type="VID">43781</idno>
+  <idno type="EEBO-PROQUEST">2264204888</idno>
+  
+            <idno type="STC">Wing R1108A</idno>
+            <idno type="STC">ESTC R26986</idno>
+            <idno type="OCLC">09602242</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43781)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Representation of the state of the Protestant churches in Europe tending to awaken the spirits of those only who will lay to heart the afflictions of Joseph.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Underhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Protestantism --  History.</term>
+               <term type="topical_term">Protestant churches --  Europe.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43781:1"/>
+            <pb n="1" facs="tcp:43781:1"/>
+            <head>A REPRESENTATION Of the STATE of the <hi>PROTESTANT CHƲRCHES</hi> IN EUROPE: Tending to awaken the Spirits of those only who will lay to heart the Afflictions of <hi>Joseph.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He State of the Protestant Churches is a Concernment which we are all bound to lay deeply to heart at this time, having been engaged many years ago to procure their Peace and Welfare: for if all things be duly considered, we shall perceive that the enemies of the Churches had never so great an advantage against them as now they have: whether we look upon them
+<pb n="2" facs="tcp:43781:2"/>singly by themselves in all the parts of <hi>Europe;</hi> or consider the Actings of their common Enemies in the Progress which they do make in their design to ruine them; or lastly if we look upon them jointly as they stand in relation one to another.</p>
+            <p>In the first respect if we cast our eye upon <hi>Poland, Bohemiah, Moravia, Austria</hi> and <hi>Silesia,</hi> where not long ago were many flourishing and large Churches, we shall see that they are all wholly dissipated and wasted.</p>
+            <p>In <hi>Transylvania</hi> and <hi>Hungaria</hi> there are some yet re<g ref="char:EOLhyphen"/>maining, but they are in so low and uncertain a condi<g ref="char:EOLhyphen"/>tion, that upon the least advantage of power which the house of <hi>Austria</hi> may get, they may in all hu<g ref="char:EOLhyphen"/>mane appearance be ruined in like manner.</p>
+            <p>In <hi>Germany</hi> the Churches are so divided, and the Protestant States so distracted, that they do not only not concurre in any common way of mutual Edification for their mutual preservation, but as the <hi>Lutheran</hi> party by their contentious Ministry hath set it self to destroy the rest; So God doth suffer their chief Pro<g ref="char:EOLhyphen"/>tectors the Kings of <hi>Sueden</hi> and <hi>Denmark</hi> to make it their chief work to destroy each other. And the Electors of <hi>Saxony</hi> and <hi>Brandenburg</hi> without respect to the safety of their Churches, serve the <hi>Austrian</hi> Design against the Protestant Interest; nor is there any considerable Prince in <hi>Germany</hi> (set aside the <hi>Landgrave</hi> of <hi>Hessen</hi>) who is able to do any thing of moment to maintain that Interest.</p>
+            <p>In the low Countries it doth not appear that they have any respect to the Protestant Interest, but their present Actings tend rather to serve the common enemies design against it, then for it.</p>
+            <p>In <hi>France</hi> the Protestant Churches are deprived of
+<pb n="3" facs="tcp:43781:2"/>their former Priviledges, for they are so many ways, and in so many places infringed, that they cannot rec<g ref="char:EOLhyphen"/>kon upon them, or make any account of them any more; so that their present standing is a meer Tolera<g ref="char:EOLhyphen"/>tion at pleasure,</p>
+            <p>In <hi>Switzerland</hi> the Pope and the <hi>Austrians</hi> have stir<g ref="char:EOLhyphen"/>red up, and hired the Popish <hi>Cantons</hi> to break with the Protestants their fundamental League, upon the account of Religion, by persecuting to death or ba<g ref="char:EOLhyphen"/>nishment all such as leave their Superstition to become Proselytes to us.</p>
+            <p>In the Vallies of <hi>Piemont</hi> the Duke of <hi>Savoy</hi> since the Masacre of those Protestants, though Peace was made with them, yet he doth still most cruelly, though not openly oppress and vex them, by giving them up to the power of the Inquisition, which will in the end (if God doth not otherwise provide) destroy them utterly.</p>
+            <p>As for our selves in <hi>England,</hi> our distracted and unsetled condition is such, and so well known, that it is in vain to speak much of it by way of com<g ref="char:EOLhyphen"/>plaint, when we see no way of Redress as yet open<g ref="char:EOLhyphen"/>ed.</p>
+            <p>This is the State of the Churches, if singly consi<g ref="char:EOLhyphen"/>dered by themselves, wherein their decaying and almost dying state, maybe read in great Characters of blood, and of confusion in which they lie wallow<g ref="char:EOLhyphen"/>ing.</p>
+            <p>But if in the second consideration their state be re<g ref="char:EOLhyphen"/>flected upon, as opposed by their common enemies, who have so great and so many advantages to destroy them, it is manifest (except God work some miracle for them) that they cannot possibly escape utter ruine and desolation.</p>
+            <pb n="4" facs="tcp:43781:3"/>
+            <p> For their adversaries the Papists formerly disunited, are now all united in one design: Their civil differen<g ref="char:EOLhyphen"/>ces being now composed, their head, the Pope doth carry on and manage their common interest against Protestants with much subtilty and vigour, not secret<g ref="char:EOLhyphen"/>ly, but openly by innumerable Agents and Emissaries, who are subordinate unto the Congregation <hi>De propa<g ref="char:EOLhyphen"/>ganda fide.</hi> These do prosecute his Counsels with inde<g ref="char:EOLhyphen"/>fatigable Industry, with great expence, and with all the advantage of publick Authority that can be given by him and his Adherents, to countenance and support them. And because it is not unknown, how these Emissaries creep into all Protestant States and Profes<g ref="char:EOLhyphen"/>sions, to observe the distances and divisions which they find amongst them to widen and foment them in the minds of the common sort, and cunningly to cast stumbling blocks before all the rest, and thereupon to insinuate with plausibility their own superstitions, therefore we shall not need to insist upon this.</p>
+            <p>The thing that is now most observable is, that in <hi>France,</hi> where there was never any Inquisition formerly admitted, it is now lately introduced, upon some for<g ref="char:EOLhyphen"/>mer preparatives made long ago; for the Cardinal <hi>Richelieu</hi> in his time did first prohibit all Forreigners from bearing any publick Office in the <hi>French</hi> Churches and Schools. Then afterward he did by another Inhibition cut off all the correspondency which for<g ref="char:EOLhyphen"/>merly was between the Churches of <hi>France,</hi> and the other Protestants of <hi>Europe:</hi> And now in this juncture of Affairs this Cardinal hath brought in the Congre<g ref="char:EOLhyphen"/>gation <hi>De Propaganda fide</hi> (which is an Inquisition un<g ref="char:EOLhyphen"/>der another name) and it doth begin to act with pub<g ref="char:EOLhyphen"/>lick Authority prohibiting all Commerce from abroad
+<pb n="5" facs="tcp:43781:3"/>for the vent of Divinity Books; So that they suffer not the Bibles which are brought from <hi>Genevah</hi> to be sold any more, but do confiscate them; and no doubt they will proceed to suppress the printing of them also within their own Dominions; and it is apparent that in every City in <hi>France,</hi> where there is a Church of Protestants, there is also a certain number of E<g ref="char:EOLhyphen"/>missaries belonging to the Congregation <hi>De propagan<g ref="char:EOLhyphen"/>da fide,</hi> setled to oppose them and vex them; so that it is as manifest as the Sun at noon day, that this design is universally to be prosecuted against all the Churches, both in <hi>France</hi> and elsewhere; as soon as they shall see the Protestant States sufficiently weak<g ref="char:EOLhyphen"/>ned by divisions.</p>
+            <p>If then in the last place we should contemplate the Protestant Churches and States jointly as they stand in Relation one to another, to see in what posture we find them, to oppose this combination of their ene<g ref="char:EOLhyphen"/>mies so strongly and universally laid; although we hope that at last <hi>Babylon</hi> shall fall, and that God will disapoint all their plots; yet it is heavily to be la<g ref="char:EOLhyphen"/>mented, that whiles our common and known adver<g ref="char:EOLhyphen"/>saries are so manifestly diligent and active to quench the light of the Gospel, and to disturb all the Protestant States and Churches which hold it forth to the world; by which means Atheism, Profaness and Superstition are not only upheld, but propagated in the world abundantly, and brake in amongst us; I say whiles the Instruments of Satan are so busie to advance his Kingdome, it is heavily to be lamented, that we who pretend to advance the Kingdom of Christ, and by solemn Vows and Promises to God, and before all the world, are bound to it, are so careless of the interest
+<pb n="6" facs="tcp:43781:4"/>of Christ, that it seems it is made a doubt amongst some of us, <hi>Whether it be lawfull for a Christian Magistrate to have any respect in his place to the profession of Chri<g ref="char:EOLhyphen"/>stianity more then to Heathenism, Mahumetanism or Ju<g ref="char:EOLhyphen"/>daism?</hi> and whiles this is made a doubt, all the thoughts of Religion being laid aside as a publick Concernment; on the one hand all Licentiousness, Profaness, Blasphemy and wickedness breake forth, and bring all manner of re<g ref="char:EOLhyphen"/>proach upon the Profession of Christanity it self; And on the other hand, the divided Professors of Christanity in their severall parties, seeke and follow eagerly their par<g ref="char:EOLhyphen"/>ticular advantages of power and places to be able to un<g ref="char:EOLhyphen"/>dermine the settlement of each other: Which tends not only to the obstructing of all common Gospel interests, but to the utter subversion of all that seemes as yet to have any bottom to stand upon, either in Church or State amongst us.</p>
+            <p>It is clear that the Papists have Agents everywhere, and that they have an universall correspondency, to keep us in division within our selves, and at a distance from all our neighbour Protestants, which is the main of their designe against us, whereby they hope not onely to wea<g ref="char:EOLhyphen"/>ken us, but to ruine us. And we are so far from having any Correspondency or Agency either civil or religious, either amongst our selves to keep up the remainder of our union at whome, or towards others to influence our a<g ref="char:EOLhyphen"/>ffections abroad to other Protestants, or to receive theirs, for mutual comfort and Spiritual communion; that we are rather bent to quitte all such relations, and to breake with them, for ought as yet appeares; And our thoughts are so much estranged from having any designe set a foot to this effect, that hitherto it hath not beene possible to obtain either open countenance or secret assistance
+<pb n="7" facs="tcp:43781:4"/>for one single Agent, who would make it his work, either at home or abroad to prepare a way for such an enterprise; that is, to procure acquaintance with the best affected, and to find out such as are sober minded and peaceable to move them and engage them to lay the common Gospel interest to heart jointly with some of us, at least so far as to be able to oblige them to pray for us, or our selves to pray for them in Cases of extremity when humane help doth fail, and deliverance can be expected only from the mighty hand of God immediately. Which certainly is such a defect of Christian Charity both to our selves and to them; and such a neglect of the Interest of Christs Kingdome, and so much contrary to our acknowledg<g ref="char:EOLhyphen"/>ed, professed and more then once publickely Protested duty, that it is just with God thus to dash us in pieces one against another, as vessells in which he takes no pleasure, and which are altogether unfit for his service: except we speedily repent, and mind henceforth seriously and sincerely the true common interest of the Gospel, and the main Concernment of our Profession; Which the Lord grant we may at last lay to heart for his names sake and the advancement of his glory in our own preservation.</p>
+            <closer>Amen.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London</hi> for <hi>Tho. Underhill</hi> at the <hi>Anchor</hi> in <hi>Pauls</hi> Church-yard. 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
